@@ -1,9 +1,9 @@
 ## Kumar Gaurav
 
-Java backend developer focused on Spring Boot, REST APIs, and real-time systems.
-Currently building full-stack applications and preparing for SDE-1 roles.
+Java full-stack developer focused on Spring Boot, REST APIs, and real-time systems,
+with React for frontend. Currently building and deploying end-to-end web applications.
 
-**Tech:** Java · Spring Boot · WebSocket · PostgreSQL · MongoDB · React
+**Tech:** Java · Spring Boot · WebSocket · PostgreSQL · MongoDB · React · JWT · REST APIs
 
 **Currently:** Final year B.Tech CSE @ LNCT Bhopal
 
