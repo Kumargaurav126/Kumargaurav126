@@ -1,10 +1,22 @@
-## Kumar Gaurav
+## Hi, I'm Kumar Gaurav 👋
 
-Java full-stack developer focused on Spring Boot, REST APIs, and real-time systems,
-with React for frontend. Currently building and deploying end-to-end web applications.
+🚀 Java Full-Stack Developer | Backend Engineering | Problem Solver
 
-**Tech:** Java · Spring Boot · WebSocket · PostgreSQL · MongoDB · React · JWT · REST APIs
+I build scalable and secure web applications using Spring Boot and React.
+My focus is on writing clean backend architectures, designing efficient APIs,
+and developing real-time systems.
 
-**Currently:** Final year B.Tech CSE @ LNCT Bhopal
+### 💻 What I Work With
+- Backend: Java, Spring Boot, Spring Security, REST APIs, JWT
+- Frontend: React, JavaScript
+- Databases: PostgreSQL, MongoDB
+- Tools: Docker, Git, AWS
+- Real-Time: WebSocket-based applications
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20problems-orange)](https://leetcode.com/u/Kumargaurav12/)
+### 🌱 Currently
+- Final Year B.Tech CSE @ LNCT Bhopal
+- Building production-ready full-stack projects
+- Improving DSA & system design skills
+
+### 🏆 Coding
+![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-orange)
