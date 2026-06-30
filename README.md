@@ -45,10 +45,9 @@ My interests include backend engineering, distributed systems, cloud technologie
 
 ## 🏆 Coding Profile
 
-* 💻 **600+ Data Structures & Algorithms problems solved**
-* 🟠 **LeetCode:** 600+ Problems Solved
-* ⭐ **CodeChef:** 2★ (Max Rating: **1403**)
-* 📈 **Codeforces:** Max Rating **1099**
-* 🎯 Passionate about writing clean, optimized, and scalable code.
+- 💻 **600+ Data Structures & Algorithms problems solved**
+- 🟠 **LeetCode:** 600+ Problems Solved | **Max Rating: 1613**
+- ⭐ **CodeChef:** 2★ | **Max Rating: 1403**
+- 📈 **Codeforces:** **Max Rating: 1099**
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Solved-orange)
